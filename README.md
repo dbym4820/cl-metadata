@@ -1,4 +1,4 @@
-# Cl-Metadata - CommonLisp Library for Attaching some Meta-Data to any kinds of files
+# Cl-Metadata - A CommonLisp Library for Attaching some Meta-Data to any kinds of files
 
 ## Purpose
 推論機構などを作成する際に各データに付与するメタデータの操作用ライブラリ
