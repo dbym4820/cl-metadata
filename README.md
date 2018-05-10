@@ -39,7 +39,7 @@ TYPE: SLIDE
 ```
 METADATA> (defparameter *data2* (make-data-with-metadata "11111111111111" :pdf :slide))
 *data2*
-METADATA> METADATA> (show-metadatas *data1*)
+METADATA> (show-metadatas *data2*)
 "ID: 2017891733510177077203171
 NAME: PDF
 TYPE: SLIDE
